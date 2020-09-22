@@ -1,1 +1,2 @@
-# paper-vs-dustbin
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
